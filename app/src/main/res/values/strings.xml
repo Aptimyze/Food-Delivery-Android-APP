@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Assignment3</string>
+    <string name="reg_btn_value">Need a new Account?</string>
+    <string name="login_edit_hin_value">Your Phone Numebr</string>
+    <string name="ver_code_hin_value">Vertify Code</string>
+    <string name="login_btn_value">Login</string>
+    <string name="vertify_btn_value">Get Code</string>
+    <string name="resend_btn">Send the Code again</string>
+
+
+    <string name="slogan">Feed you the freshest food in the shortest time wherever you are. </string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_driver_maps">Map</string>
+    <string name="title_activity_user_maps">Map</string>
+    <string name="title_activity_maps_for_user">Map</string>
+</resources>

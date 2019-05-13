@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "129884940742",
+    "firebase_url": "https://assignment3-dde1d.firebaseio.com",
+    "project_id": "assignment3-dde1d",
+    "storage_bucket": "assignment3-dde1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129884940742:android:47f5291edf5a56c2",
+        "android_client_info": {
+          "package_name": "edu.monash.assignment3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129884940742-jkfk3kn7m30ta2kqrj6ejlgi283e1n1g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.monash.assignment3",
+            "certificate_hash": "33783e8fcdad4940f591c870b82773e74048e9d5"
+          }
+        },
+        {
+          "client_id": "129884940742-9r4h8os0skdus10ajikr68efcjp57tci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7ltX5SASkuONPr5qsi_aQoarauhx68Ow"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129884940742-9r4h8os0skdus10ajikr68efcjp57tci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
